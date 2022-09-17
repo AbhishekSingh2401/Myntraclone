@@ -1,6 +1,8 @@
 let slideIndex = 0;
 showSlides();
 
+const secretKey = process.env.SECRET_KEY;
+
 function showSlides() {
   let i;
   let slides = document.getElementsByClassName("mySlides");

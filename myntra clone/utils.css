@@ -56,5 +56,69 @@
 
 .my-2{
     margin: 12px 0;
-    
 }
+
+.footer-nav{
+    display: block;
+    box-sizing: inherit;
+    margin-bottom: 24px;
+    overflow:hidden ;
+}
+
+.desktop-shoplink{
+    width: 155px;
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 20px;
+}
+
+.desktop-shoplink2{
+    display: block;
+    width: 15%;
+    float: left;
+}
+
+.desktop-appExperience{
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 20px;
+    width: 360px;
+    font-size: 15px;
+    line-height: 19px;
+    padding-top: 13px;
+}
+
+
+
+
+footer{
+    /* background-color: #f7f8fd; */
+    /* padding: 50px; */
+    font-size: 80%;
+    color: #888;
+    width: 100%;
+}
+
+.footer-nav{
+    color: #696b79;
+    display: block;
+    font-size: 15px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    cursor: pointer;
+    line-height: normal;
+}
+.footer-nav li{
+    list-style: none;
+    display: block;
+    padding: 3px;
+    margin-right: 20px;
+}
+
+.social-media{
+    font-size: 12px;
+    margin-bottom: 10px;
+    font-weight: 500;
+    margin-top: 20px;
+}
+

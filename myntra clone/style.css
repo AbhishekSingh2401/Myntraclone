@@ -78,6 +78,7 @@ nav ul li{
       display: none;
       width: 100%;
     }
+
 img {
     vertical-align: middle;
 }
@@ -88,4 +89,60 @@ footer{
      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
+
+footer right{
+    text-align: center;
+}
+
+footer div ul h3{
+    text-align: justify;
+    font-size: 20px;
+   
+}
+
+
+
+.android-image{
+    margin-right: 10px;
+    height: 42px;
+}
+
+.ios-image{
+    margin-right: 10px;
+    height: 42px;
+}
+
+.social-media-facebook{
+    margin: 0 15px 0 0;
+    display: inline-block;
+}
+
+.facebook-image{
+    height: 20px;
+}
+
+.social-media-twitter{
+    margin: 0 15px 0 0;
+    display: inline-block;
+}
+.twitter-image{
+    height: 20px;
+}
+
+.social-media-youtube{
+    margin: 0 15px 0 0;
+    display: inline-block;
+}
+.youtube-image{
+    height: 20px;
+}
+
+.social-media-insta{
+    margin: 0 15px 0 0;
+    display: inline-block;
+}
+
+.insta-image{
+    height: 20px;
+}
 
